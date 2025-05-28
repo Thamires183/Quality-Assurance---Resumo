@@ -1,1 +1,24 @@
-# Quality-Assurance---Resumo
+# Quality-Assurance - Resumo
+
+Quality Assurance (QA), ou Garantia da Qualidade, é um conjunto de processos, práticas e atividades focadas em assegurar que produtos ou serviços atendam aos padrões de qualidade definidos. No desenvolvimento de software, o QA tem como objetivo garantir que o sistema funcione corretamente, atenda aos requisitos e esteja livre de erros críticos antes de ser entregue aos usuários.
+•	Principais Objetivos do QA:
+	Prevenir defeitos, em vez de apenas corrigi-los.
+	Assegurar que os processos de desenvolvimento sigam padrões e boas práticas.
+	Garantir a satisfação do cliente com um produto confiável e de qualidade.
+
+•	Atividades Comuns de QA:
+	Planejamento de testes.
+	Definição de critérios de qualidade.
+	Análise e revisão de requisitos.
+	Auditorias e inspeções de processos.
+	Acompanhamento de métricas de qualidade.
+
+•	Diferença entre QA e Teste de Software:
+	QA: Foca na prevenção de problemas através de processos bem definidos.
+	Teste de Software: Foca na detecção de defeitos no produto final, executando testes manuais ou automatizados.
+
+•	Benefícios do QA:
+	Redução de custos com retrabalho.
+	Melhoria na experiência do usuário.
+	Aumento da confiança no produto.
+	Processos mais eficientes e organizados.

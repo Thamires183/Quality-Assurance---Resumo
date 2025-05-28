@@ -31,3 +31,30 @@ Quality Assurance (QA), ou Garantia da Qualidade, é um conjunto de processos, p
   QA também contribui para a organização dos processos, promovendo uma cultura de melhoria contínua e colaboração entre as equipes. Isso resulta em maior produtividade, eficiência no desenvolvimento e entrega de produtos mais robustos e seguros.
   Portanto, investir em QA não é apenas uma questão de evitar problemas, mas sim de garantir a entrega de valor, gerar economia no longo prazo e assegurar que o produto cumpra suas funções de forma eficaz e confiável.
 
+
+Tipos de Testes:
+
+Unitário - Testar componentes isolados (ex.: funções/métodos).
+Integração - Verificar comunicação entre módulos.
+Sistema	 - Validar o software como um todo.
+Aceitação - Confirmar atendimento a requisitos do usuário (UAT).
+Regressão - Garantir que novas alterações não quebrem funcionalidades existentes.
+Exploratório - Teste não scriptado, baseado em experiência e cenários reais.
+
+
+Planejamento e Estrategia
+
+Critérios de Aceitação
+User Stories (Ágil) + BDD (Behavior-Driven Development):
+Exemplo: Dado [contexto], Quando [ação], Então [resultado].
+
+Criação de Casos de Teste
+
+Estrutura clara: Pré-condições, passos, resultado esperado.
+Priorização por risco e impacto no negócio.
+Métricas e Relatórios
+
+Exemplos:
+Taxa de defeitos (Defeitos encontrados / Casos de teste executados).
+Cobertura de testes (% do código testado).
+
